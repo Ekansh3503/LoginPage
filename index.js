@@ -7,6 +7,7 @@ const app = express();
 const mongoose = require('mongoose');
 
 app.use(bodyParser.urlencoded({ extended: true }));
+app.use(express.static('public'));
 
 // MongoDB connection URI
 // const mongoURI = 'mongodb://localhost:27017';
