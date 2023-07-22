@@ -1,0 +1,1 @@
+1. Learnt about fetching icons from a website to use in our website.
