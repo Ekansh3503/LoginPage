@@ -5,5 +5,16 @@
     "express": "^4.18.2",
     "mongodb": "^5.7.0",
     "mongoose": "^7.3.4"
-  }
+  },
+  "name": "loginpage",
+  "description": "1. Learnt about fetching icons from a website to use in our website.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
